@@ -52,7 +52,8 @@ header h2{font-size: 30px;}
     width: 25%;
     height: 55px;
     background-color: lightskyblue;
-    border: none;
+    
+    outline: none;
     margin: 7% 38%;
     cursor: pointer;
     color: #f1f1f1;
